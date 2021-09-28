@@ -1,14 +1,5 @@
 /*Author Charles Yingling     Date 9/27/2021
-1. Create a new repl called Lab5a in C# to calculate the speed of 7 cars in a race.
-Speed is calculated by dividing distance traveled(miles) by time (hr) taken.
-Speed = Distance/Time
-Your program should do the following:
-a) Get Inputs for each car:
-•	distance traveled (in miles)
-•	time taken (in hours)
-b) Calculate the speed for each car
-c) Display the speed for each car.
-d) Calculate the average speed of the 7 cars and display it (outside the loop)*/
+1. Create a new repl called Lab5a in C# to calculate the speed of 7 cars in a race.*/
 using System;
 
 class Program {
